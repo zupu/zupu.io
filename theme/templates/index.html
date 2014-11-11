@@ -1,0 +1,14 @@
+{%- extends "layout.html" -%}
+
+{%- block title %}{{post.title}}{% endblock %}
+
+{%- block document %}
+<div class="hentry">
+  <div>
+    <img src="images/pu.gif" />
+  </div>
+  <div style="text-align:center;">
+    {{post.html}}
+  </div>
+</div>
+{% endblock -%}
