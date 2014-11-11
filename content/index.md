@@ -6,8 +6,16 @@
 
 ----
 
-<br/><br/><br/>
+<div style="text-align:center;">
 
-**ZUPU.IO** is Comming soon...
+  <div>
+    <img src="images/pu.gif" style="border-radius: 100%;" />
+  </div>
 
-<br/><br/>
+  <br/><br/><br/>
+
+  **ZUPU.IO** is Comming soon...
+
+  <br/><br/>
+
+</div>
