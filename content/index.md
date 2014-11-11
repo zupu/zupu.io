@@ -14,7 +14,7 @@
 
   <br/><br/><br/>
 
-  **ZUPU.IO** is Comming soon...
+  **ZUPU.IO** is Coming soon...
 
   <br/><br/>
 
