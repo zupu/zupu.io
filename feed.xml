@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>族谱(ZUPU.IO)</title>
+    <link href="http://zupu.io/feed.xml" rel="self" />
+    <link href="http://zupu.io/feed.xml" />
+    <id>http://zupu.io/feed.xml</id>
+    <entry>
+        <title type="html"><![CDATA[ZUPU.IO IS COMMING...]]></title>
+        <link href="http://zupu.io/blog/zupu.io-is-comming"/>
+        <published>2014-11-11T00:00:00.000Z</published>
+        <updated>2014-11-11T00:00:00.000Z</updated>
+        <id>http://zupu.io/blog/zupu.io-is-comming</id>
+        <content type="html" xml:base="http://zupu.io" xml:lang="en">
+            <![CDATA[ <p>终于下定决心开始 ZUPU.IO 了，这是一个开始。</p>
+]]>
+        </content>
+    </entry>
+</feed>
