@@ -273,9 +273,9 @@ a.comment-count{}
 footer{
   border-width:1px 0 0;
   border-style:solid;
-  border-color:#ccc;
+  border-color:#eee;
   /*background:#fff none;*/
-  color:#999;
+  color:#ddd;
   text-align:center;
   margin:0;
   padding:5px;
